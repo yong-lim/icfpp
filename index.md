@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: 
 layout: icf
 banner: "/assets/images/banners/home.jpeg"
 sidebar: category-list
