@@ -1,0 +1,39 @@
+# Translate languages
+# langs refer to https://cloud.google.com/translate/docs/languages
+
+- lang: en
+  img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+  text: English
+
+- lang: km
+  img: https://cdn.countryflags.com/thumbs/cambodia/flag-400.png
+  text: Khmer
+
+- lang: fr
+  img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+  text: French
+
+- lang: zh-CN
+  img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+  text: Chinese(Simple)
+
+- lang: ja
+  img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+  text: Japanese
+
+- lang: ko
+  img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+  text: Korean
+
+- lang: ru
+  img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
+  text: Russian
+
+- lang: es
+  img: https://cdn.countryflags.com/thumbs/spain/flag-400.png
+  text: Spanish
+
+- lang: ms
+  img: https://cdn.countryflags.com/thumbs/malaysia/flag-400.png
+  text: Malay
+
