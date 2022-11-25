@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: "I'm New"
 ---
 ![ICF group photo](assets/images/icf-group-photo.jpeg)
