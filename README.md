@@ -1,2 +1,2 @@
-# icf
+# ICF
 International Christian Fellowship
