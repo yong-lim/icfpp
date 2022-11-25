@@ -2,6 +2,7 @@
 layout: default
 title: "I'm New"
 ---
+![ICF group photo](assets/images/icf-group-photo.jpeg)
 
 ## I'm New Here
 
