@@ -35,4 +35,3 @@ Home Group is a great way to get to know other believers on a more personal leve
 
 <h3><center>We look forward to meeting and getting to know you!</center></h3>
 
-

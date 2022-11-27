@@ -1,0 +1,12 @@
+- id: name-field
+  placeholder: Your name
+  type: text
+
+- id: phone-field
+  placeholder: Phone number
+  type: phone
+
+- id: email-field
+  placeholder: Email address
+  type: email
+

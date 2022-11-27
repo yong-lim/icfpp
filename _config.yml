@@ -56,6 +56,11 @@ favicon: "" # the favicon for your site
 yat:
   date_format: "%b %d, %Y"
 
+# Contact form
+# Enter API token here
+api_token: AKfycbw99ZCFhr9pzbMDUdhGiyNTAy1l2aKFItSaeK5ysoHxuh341PhmBqdVi3URC3xWl7Lu
+
+
 # If you want more debug log, you can set true
 # debug: false
 
@@ -150,7 +155,7 @@ header_pages:
    - new.md
    - about-us.md
    - home-group.md
-   - infoflow.md
+   - page/infoflow.md
 
 # Page default value
 # defaults:
