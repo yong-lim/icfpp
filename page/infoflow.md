@@ -1,6 +1,7 @@
 ---
 layout: infoflow
 title: "ICF InfoFlow"
+permalink: /infoflow
 ---
 ![ICF group photo](../assets/images/icf-group-photo.jpeg)
 ## ICF InfoFlow page

@@ -156,6 +156,8 @@ header_pages:
    - about-us.md
    - home-group.md
    - page/infoflow.md
+     
+permalink: pretty
 
 # Page default value
 # defaults:

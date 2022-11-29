@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About Us"
+permalink: /about-us
 ---
 ![ICF group photo](assets/images/icf-group-photo.jpeg)
 

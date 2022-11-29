@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home Group"
+permalink: /home-group
 ---
 ![ICF group photo](assets/images/icf-group-photo.jpeg)
 ## Home Groups
