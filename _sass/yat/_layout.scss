@@ -574,6 +574,7 @@ html {
   display: block;
   position: relative;
   height: $banner-height;
+  max-width: 1390px;
   background-color: $banner-background;
   transition: height 0.2s;
 
