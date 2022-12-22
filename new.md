@@ -3,7 +3,7 @@ layout: new
 title: "I'm New"
 permalink: /new
 ---
-![ICF group photo](assets/images/icf-group-photo.jpeg)
+![ICF group photo](assets/images/icf-banner.jpg)
 
 ## I'm New Here
 

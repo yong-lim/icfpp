@@ -3,7 +3,7 @@ layout: default
 title: "About Us"
 permalink: /about-us
 ---
-![ICF group photo](assets/images/icf-group-photo.jpeg)
+![ICF group photo](assets/images/icf-banner.jpg)
 
 ## Who We Are
 
