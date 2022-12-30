@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/accordion.css">
+
+<div class="accordion">
+  {% for acc in site.data.icf %}
+  <div>
+    <input type="checkbox" name="example_accordion" id="{{ acc.id }}" class="accordion__input">
+    <label for="{{ acc.id }}" class="accordion__label">{{ acc.label }}</label>
+    <div class="accordion__content">
+      <p>{{ acc.text | markdownify }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
