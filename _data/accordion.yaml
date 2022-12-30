@@ -1,0 +1,13 @@
+- id: section1 
+  label: "Section #1"
+  text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam sit reiciendis, ipsam quaerat,
+        aperiam perspiciatis ad ullam architecto impedit natus illo nostrum molestias voluptas earum a
+        voluptatibus fugiat fuga facere!
+- id: section2 
+  label: "Section #2"
+  text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam sit reiciendis, ipsam quaerat,
+        aperiam perspiciatis ad ullam architecto impedit natus illo nostrum molestias voluptas earum a
+- id: section3 
+  label: "Section #3"
+  text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam sit reiciendis, ipsam quaerat,
+        aperiam perspiciatis ad ullam architecto impedit natus illo nostrum molestias voluptas earum a
