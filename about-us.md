@@ -78,7 +78,7 @@ The Holy Spirit engages the Word in this bringing of the Kingdom to the city of 
 ## Our Doctrine
 The ICF shall recognise the Scriptures of the Old and New Testaments as the unique and reliable written Word of God and these same Scriptures shall be supremelyauthoritative in all matters of faith and practice. The ICF shall endorse the doctrines of the Apostle's Creed.
 
-### The Apostles Creed 
+## The Apostles Creed 
 I believe in God, the Father Almighty, the Maker of heaven and earth,
 and in Jesus Christ, His only Son, our Lord;
 Who was conceived by the Holy Spirit, born of the virgin Mary,
