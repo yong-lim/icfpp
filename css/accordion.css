@@ -19,6 +19,7 @@
   font-weight: 600;
   font-family: 'Lora', sans-serif;
   font-style: italic;
+  font-size: 18;
   color: #24678d;
   cursor: pointer;
   position: relative;
@@ -48,7 +49,7 @@
 .accordion__content {
   background: #ffffff;
   line-height: 1.6;
-  font-size: 0.85em;
+  font-size: 14px;
   display: none;
 }
 
