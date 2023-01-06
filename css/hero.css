@@ -43,7 +43,7 @@ audio,canvas,progress,video{
 }
 .form input:focus,.form textarea:focus{
     outline:0;
-    border-color:#3dadb2;
+    border-color:#a08484;
     -webkit-transition:all 0.3s ease;
     transition:all 0.3s ease;
     box-shadow:none
@@ -54,38 +54,38 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{
 }
 .btn-default{
     color:#fff;
-    background-color:#3dadb2;
-    border-color:#3dadb2
+    background-color:#a08484;
+    border-color:#a08484
 }
 .btn-default:focus,.btn-default.focus{
     color:#fff;
-    background-color:#30888c;
+    background-color:#bd9e9e;
     border-color:#1c5153
 }
 .btn-default:hover{
     color:#fff;
-    background-color:#30888c;
+    background-color:#bd9e9e;
     border-color:#2d8184
 }
 .btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle{
     color:#fff;
-    background-color:#30888c;
+    background-color:#bd9e9e;
     border-color:#2d8184
 }
 .btn-default:active:hover,.btn-default:active:focus,.btn-default:active.focus,.btn-default.active:hover,.btn-default.active:focus,.btn-default.active.focus,.open>.btn-default.dropdown-toggle:hover,.open>.btn-default.dropdown-toggle:focus,.open>.btn-default.dropdown-toggle.focus{
     color:#fff;
-    background-color:#276e71;
+    background-color:#927a7a;
     border-color:#1c5153
 }
 .btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle{
     background-image:none
 }
 .btn-default.disabled,.btn-default.disabled:hover,.btn-default.disabled:focus,.btn-default.disabled.focus,.btn-default.disabled:active,.btn-default.disabled.active,.btn-default[disabled],.btn-default[disabled]:hover,.btn-default[disabled]:focus,.btn-default[disabled].focus,.btn-default[disabled]:active,.btn-default[disabled].active,fieldset[disabled] .btn-default,fieldset[disabled] .btn-default:hover,fieldset[disabled] .btn-default:focus,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:active,fieldset[disabled] .btn-default.active{
-    background-color:#3dadb2;
-    border-color:#3dadb2
+    background-color:#a08484;
+    border-color:#a08484
 }
 .btn-default .badge{
-    color:#3dadb2;
+    color:#a08484;
     background-color:#fff
 }
 .form .btn{
