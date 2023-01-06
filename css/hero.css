@@ -60,22 +60,18 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{
 .btn-default:focus,.btn-default.focus{
     color:#fff;
     background-color:#bd9e9e;
-    border-color:#1c5153
 }
 .btn-default:hover{
     color:#fff;
     background-color:#bd9e9e;
-    border-color:#2d8184
 }
 .btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle{
     color:#fff;
     background-color:#bd9e9e;
-    border-color:#2d8184
 }
 .btn-default:active:hover,.btn-default:active:focus,.btn-default:active.focus,.btn-default.active:hover,.btn-default.active:focus,.btn-default.active.focus,.open>.btn-default.dropdown-toggle:hover,.open>.btn-default.dropdown-toggle:focus,.open>.btn-default.dropdown-toggle.focus{
     color:#fff;
     background-color:#927a7a;
-    border-color:#1c5153
 }
 .btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle{
     background-image:none
