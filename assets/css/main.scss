@@ -36,3 +36,15 @@ $brand-color: map-get($brand-colors, "orangered");
 $content-width: {{ site.content_width | default: '920px' }};
 
 @import "yat";
+
+ .wsite-button, .wsite-button .wsite-button-inner, .wsite-editor .wsite-button, .wsite-editor .wsite-button .wsite-button-inner { color: white; background-image: none !important; background-color: #a08484; }
+ .wsite-button, .wsite-editor .wsite-button { padding: 8px 20px !important; }
+ .wsite-button-large, .wsite-editor .wsite-button-large { padding: 10px 25px !important; }
+ .wsite-button .wsite-button-inner, .wsite-editor .wsite-button .wsite-button-inner { background-color: inherit; height: auto !important; line-height: 1.25 !important; padding: 0 !important; }
+ .wsite-button-highlight, .wsite-editor .wsite-button-highlight { background-color: #a08484; }
+ .wsite-button-highlight:hover, .wsite-editor .wsite-button-highlight:hover { background-color: #bd9e9e; }
+ .wsite-button-highlight:active, .wsite-editor .wsite-button-highlight:active { background-color: #44818e; }
+ .wsite-button-normal, .wsite-editor .wsite-button-normal { background-color: #484848; }
+ .wsite-button-normal:hover, .wsite-editor.wsite-button-normal:hover { background-color: #616161; }
+ .wsite-button-normal:active, .wsite-editor .wsite-button-normal:active { background-color: #303030; }
+
