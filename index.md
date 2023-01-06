@@ -68,6 +68,5 @@ Join us each week for worship, Bible-based teaching, prayer and fellowship.
 <br>
 * Reaching out through natural connections.
 </center></h3>
-<br>
 
 ---
