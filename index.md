@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: icf
-banner: "/assets/images/banners/home.jpeg"
 sidebar: category-list
 ---
 ## Pastoral Position Available!

@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: icf
 title: "About Us"
 permalink: /about-us
 ---
-![ICF group photo](assets/images/icf-banner.jpg)
 
 ## Who We Are
 

@@ -1,10 +1,8 @@
 ---
-layout: new
+layout: icf
 title: "I'm New"
 permalink: /new
 ---
-![ICF group photo](assets/images/icf-banner.jpg)
-
 ## I'm New Here
 
 Welcome! We hope you will consider making ICF your home church during your time in Cambodia. 

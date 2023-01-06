@@ -1,5 +1,16 @@
 ---
-layout: categories
+layout: default
 sidebar: category-list
 ---
-  {{ content }}
+<img src="/assets/images/icf-banner.jpg" alt="ICF banner">
+
+<div class="framework">
+  <section class="main">
+
+     {{ content }}
+
+  </section>
+  <section class="sidebar" style="margin-left: 15px;">
+    {%- include sidebar/icf-sidebar.html %}
+  </section>
+</div>
