@@ -153,6 +153,7 @@ header_pages:
    - new.md
    - about-us.md
    - home-group.md
+   - donate.md
    - page/infoflow.md
      
 permalink: pretty

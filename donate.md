@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Donate
+permalink: /donate
 ---
 ![ICF group photo](assets/images/icf-group-photo.jpeg)
 ## Tithes and Offerings
