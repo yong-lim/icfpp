@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: icf
 title: "Home Group"
 permalink: /home-group
 ---
-![ICF group photo](assets/images/icf-banner.jpg)
 ## Home Groups
 
 Home groups are a great way of building supportive friendships and learning and growing together.

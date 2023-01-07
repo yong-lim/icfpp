@@ -6,7 +6,6 @@ layout: icf
 sidebar: category-list
 ---
 ## Pastoral Position Available!
-<br>
 ICF is an English-speaking, expatriate, broadly evangelical, interdenominational
 church with members from many nations, in a city with a moderate number of Christian
 workers and a large number of English-speaking expats that are not yet church-goers.
