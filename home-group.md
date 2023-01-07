@@ -13,8 +13,8 @@ Please come and join in!
 Wednesday 7.45pm.
 Connect with others as you navigate life in Phnom Penh.
 We meet in person as well as on Zoom.
-Contact Nick Byles at [nick.byles@gmail.com](nick.byles@gmail.com)
+Contact [Nick Byles](mailto:nick.byles@gmail.com).
 
 **Toul Tompong-Boeung Tumpun Home Group.**
 Thursday 7.00pm.
-Contact Wendy Lim at [wendyincambodia@gmail.com](wendyincambodia@gmail.com)
+Contact [Wendy Lim](mailto:wendyincambodia@gmail.com).

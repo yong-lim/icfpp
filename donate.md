@@ -52,7 +52,7 @@ Account holder name: GLOVER Andrew John
 Account number: 000 703 175
 SWIFT Code: ABAAKHPP
 
-Please send an email to [phnompenhicf@gmail.com](phnompenhicf@gmail.com) once the transfer is processed,
+Please send an email to [admin @icf.org](mailto:admin@icfpp.org) once the transfer is processed,
 with the amount sent and any fees incurred. Once the funds have been received
 and deposited to the ICF bank account, we will email you a proof of deposit.
 

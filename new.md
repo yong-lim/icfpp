@@ -8,7 +8,7 @@ permalink: /new
 Welcome! We hope you will consider making ICF your home church during your time in Cambodia. 
 We desire to connect with our newcomers and visitors and foster a sense of belonging to those 
 who may be far from home. If you would like to know more about our church vision and ministries 
-please email [phnompenhicf@gmail.com](phnompenhicf@gmail.com)
+please email [ICF Admin](mailto:admin@icfpp.org).
 
 We have 2 services that meet in different parts of Phnom Penh.
 **ICF North meet Sunday, 9.30am at HOPE International School,**
@@ -34,3 +34,4 @@ Home Group is a great way to get to know other believers on a more personal leve
 
 <h3><center>We look forward to meeting and getting to know you!</center></h3>
 
+---

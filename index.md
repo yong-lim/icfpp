@@ -34,7 +34,7 @@ level, but all will be expected to demonstrate a love for and mature handling of
 the Word of God, as well as some relevant experience.
 
 To apply for the position click below to download the initial application form.
-**Please send completed forms to** [icfpp2022@gmail.com](icfpp2022@gmail.com)
+**Please send completed forms to** [icfpp2022 @ gmail.com](mailto:icfpp2022@gmail.com)
 
 
 ICF Pastor 1st Application Form:
