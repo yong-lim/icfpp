@@ -34,20 +34,20 @@ level, but all will be expected to demonstrate a love for and mature handling of
 the Word of God, as well as some relevant experience.
 
 To apply for the position click below to download the initial application form.
-**Please send completed forms to** [icfpp2022 @ gmail.com](mailto:icfpp2022@gmail.com)
+**Please send completed forms to** [icfpp2022 @gmail.com](mailto:icfpp2022@gmail.com)
 
 
 ICF Pastor 1st Application Form:
 [![Application Form][1]][2]
 
-[1]:  assets/images/rtf.png
-[2]:  https://www.icfpp.org/uploads/4/8/4/3/48437963/icf_pastor_1st_application.pdf
+[1]:  /assets/images/rtf.png
+[2]:  /assets/pdf/icf_pastor_1st_application.pdf
 
 ICF Constitution:
 [![ICF Constitution][3]][4]
 
-[3]:  assets/images/pdf.png
-[4]:  https://www.icfpp.org/uploads/4/8/4/3/48437963/icf_constituion_final_revision_with_clause_8_1_moved_to_7_8_and_7_9_replaced_etc_mon_13_dec_pm_.pdf
+[3]:  /assets/images/pdf.png
+[4]:  /assets/pdf/icf_constituion_final_revision_with_clause_8_1_moved_to_7_8_and_7_9_replaced_etc_mon_13_dec_pm_.pdf
 
 ---
 The ICF is an international, inter-denominational, independent Christian church.
