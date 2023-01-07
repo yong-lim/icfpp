@@ -17,11 +17,11 @@ We have 2 services that meet in different parts of Phnom Penh.
 
 **ICF South meet Sunday, 10.30am at Red Ginseng Cafe,** 
 #31 St 430 corner St 500, Phsar Deum Thkov near the Mermaid Roundabout. 
-Google map: ឃេ-ប្រេន កាហ្វេ [https://goo.gl/maps/evkC79ueYvYbxCsV9](https://goo.gl/maps/evkC79ueYvYbxCsV9)
-On Grab pin "Red Ginseng Cafe"
+Google map: ឃេ-ប្រេន កាហ្វេ [Google Map](https://goo.gl/maps/evkC79ueYvYbxCsV9)
+On Grab pin "Red Ginseng Cafe".
 
 Please follow us on Facebook for more information: 
-[www.facebook.com/icfpp/](www.facebook.com/icfpp/)
+[www.facebook.com/icfpp/](https://www.facebook.com/icfpp/){:target="_blank"}.
 
 ## Introduce yourself!
 We would love to get to know you. We have a special time during our Sunday services for visitors to introduce themselves and tell us why they're in Cambodia. 
