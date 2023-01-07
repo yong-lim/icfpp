@@ -3,7 +3,7 @@ layout: default
 title: Donate
 permalink: /donate
 ---
-![ICF group photo](assets/images/icf-group-photo.jpeg)
+![ICF group photo](/assets/images/icf-banner.jpg)
 ## Tithes and Offerings
 Your contribution to the ministries of ICF makes a huge difference, and we thank
 you for your continued support!
