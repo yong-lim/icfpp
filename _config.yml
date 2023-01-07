@@ -151,7 +151,7 @@ api_token: AKfycbw99ZCFhr9pzbMDUdhGiyNTAy1l2aKFItSaeK5ysoHxuh341PhmBqdVi3URC3xWl
 # this and add the path to the pages in order as they should show up
 header_pages:
    - new.md
-   - about-us.md
+   - about.md
    - home-group.md
    - donate.md
    - page/infoflow.md

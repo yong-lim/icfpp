@@ -1,6 +1,6 @@
 ---
 layout: icf
-title: About
+title: "About Us"
 ---
 <br>
 <h2>

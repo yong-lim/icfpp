@@ -1,7 +1,7 @@
 ---
 layout: icf
 title: "About Us"
-permalink: /about-us
+permalink: /about
 ---
 
 ## Who We Are
