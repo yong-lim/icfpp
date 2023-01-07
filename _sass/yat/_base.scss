@@ -44,7 +44,7 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-h2 {
+h2, h3 {
   font-family: 'Lora', sans-serif;
   font-style: italic;
   color: #24678d;
@@ -244,6 +244,7 @@ table {
  */
 %flex {
   display: flex;
+  padding-top: 10px;
 }
 
 %flex-1 {
