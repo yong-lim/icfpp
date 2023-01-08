@@ -2,7 +2,11 @@
 layout: default
 sidebar: category-list
 ---
-<img src="/assets/images/icf-banner.jpg" alt="ICF banner">
+{%- assign p-banner = "/assets/images/icf-banner.jpg" -%}
+{%- if page.page-banner -%}
+  {%- assign p-banner = page.page-banner -%}
+{%- endif -%}
+<img src="{{ p-banner }}" alt="ICF banner">
 
 <div class="framework">
   <section class="main">
@@ -12,3 +16,4 @@ sidebar: category-list
     {%- include sidebar/icf-sidebar.html %}
   </section>
 </div>
+
