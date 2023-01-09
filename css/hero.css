@@ -17,6 +17,7 @@ audio,canvas,progress,video{
 .container-fluid:before,.container-fluid:after{
     content:" ";
     display:table
+    border-radius:4px
 }
 .container-fluid:after{
     clear:both
@@ -85,7 +86,7 @@ button,html input[type="button"],input[type="reset"],input[type="submit"]{
     background-color:#fff
 }
 .form .btn{
-    width:auto;
+/*    width:auto;*/
     border:0
 }
 .form .form-field{
