@@ -94,6 +94,8 @@ html {
 .site-brand {
   line-height: $header-height;
   margin-right: 50px;
+  font-family: 'Lora', sans-serif;
+  font-style: italic;
 
   .site-brand-inner {
     @include relative-font-size(1.125);
@@ -103,12 +105,14 @@ html {
 
     &, &:visited {
       color: $header-text-color;
+      color: #24678d;
     }
 
     .site-favicon {
       display: inline-block;
       height: $header-height / 1.5;
       margin-right: 5px;
+      padding-bottom: 19px;
     }
   }
 }
