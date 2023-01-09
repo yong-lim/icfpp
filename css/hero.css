@@ -53,7 +53,8 @@ audio,canvas,progress,video{
 }
 button,html input[type="button"],input[type="reset"],input[type="submit"]{
     -webkit-appearance:button;
-    cursor:pointer
+    cursor:pointer;
+    padding-right: 14px;
 }
 .btn-default{
     color:#fff;
