@@ -709,7 +709,7 @@ html {
     @include flex-sticky($header-height + 20px);
 
     @include media-query($on-laptop) {
-      display: none;
+      /* yong display: none; */
     }
 
   }
