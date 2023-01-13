@@ -1,0 +1,45 @@
+# North location
+- note: > 
+    <b>ICF North service, 9.30am</b> at HOPE International School, #532 St Try Heng 3, Sen Sok
+    <br>
+    <a href="{{ site.data.side-bar.south-map }}">Google Map Link</a>
+ 
+# South location
+- note: >
+    <b>ICF South service, 10.30am</b> at #31 St 430 corner St 500, Phsar Deum Thkov
+    <br>
+    <a href="{{ site.data.side-bar.north-map }}">Google Map Link</a>
+    <br>
+    Grab pin "Red Ginseng Cafe"
+
+# Social media
+- note: >
+    Follow us on social media for latest news:
+    <a href="https://www.facebook.com/icfpp/"> (FB) @icfpp</a>
+
+# Donation
+- note: >
+    <div style="text-align:center;">
+      <div style="padding: 13px;">
+        <a style="text-decoration: none" class="wsite-button wsite-button-small wsite-button-highlight" href="/donate.html" >
+          <span class="wsite-button-inner">Donate</span>
+        </a>
+      </div>
+    </div>
+
+# Contact
+- note: >
+    <address>
+      Contact us by email:<br> <a href = "mailto: admin@icfpp.org">Send Email</a>
+    </address>
+    <div style="text-align:center;">
+      Sign up for InfoFlow newsletter:
+      <div style="padding: 20px;">
+        <a style="text-decoration: none" class="wsite-button wsite-button-small wsite-button-highlight" href="/infoflow.html" >
+          <span class="wsite-button-inner">InfoFlow</span>
+        </a>
+      </div>
+    </div>
+
+
+
