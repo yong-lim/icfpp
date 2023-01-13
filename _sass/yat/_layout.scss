@@ -103,6 +103,7 @@ html {
     font-weight: $base-font-weight;
     letter-spacing: -1px;
     transition: 0.1s filter color;
+    font-weight: 600;
 
     &, &:visited {
       color: $header-text-color;
