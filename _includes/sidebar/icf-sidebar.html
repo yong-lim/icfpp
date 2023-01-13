@@ -1,9 +1,10 @@
 <h2>{{ site.sidebar-title }}</h2>
 
 {% for side in site.data.icf-sidebar %}
-  <div style="height: 15px;"> </div>
   {{ side.note }}
-  <div style="height: 15px;"> </div>
-  <hr>
+  <div style="padding: 15px 0 10px;"> 
+    <hr>
+  </div>
 {% endfor %}
+
 
