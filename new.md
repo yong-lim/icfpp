@@ -10,14 +10,14 @@ We desire to connect with our newcomers and visitors and foster a sense of belon
 who may be far from home. If you would like to know more about our church vision and ministries 
 please email [ICF Admin](mailto:admin@icfpp.org).
 
-We have 2 services that meet in different parts of Phnom Penh.
+We have 2 services that meet in different parts of Phnom Penh.<br>
 **ICF North meet Sunday, 9.30am at HOPE International School,**
-#532 St Try Heng 3, Sen Sok. This is a family-friendly service.
-[Google map](https://goo.gl/maps/fJuXRrKpmG96mqyA7).
+#532 St Try Heng 3, Sen Sok. This is a family-friendly service. North Google Map:
+[{{ site.north-gmap }}]({{ site.north-gmap }}).
 
 **ICF South meet Sunday, 10.30am at Red Ginseng Cafe,** 
 #31 St 430 corner St 500, Phsar Deum Thkov near the Mermaid Roundabout. 
-Google map: ឃេ-ប្រេន កាហ្វេ [Google Map](https://goo.gl/maps/evkC79ueYvYbxCsV9)
+South Google Map: ឃេ-ប្រេន កាហ្វេ [{{ site.south-gmap }}]({{ site.south-gmap }})<br>
 On Grab pin "Red Ginseng Cafe".
 
 Please follow us on Facebook for more information: 

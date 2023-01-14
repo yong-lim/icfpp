@@ -1,10 +1,11 @@
 <h2>{{ site.sidebar-title }}</h2>
 
 {% for side in site.data.icf-sidebar %}
-  {{ side.note }}
+{{ side.note | replace: "N-gmap", site.north-gmap | replace: 'S-gmap', site.south-gmap }}
   <div style="padding: 15px 0 10px;"> 
     <hr>
   </div>
 {% endfor %}
+
 
 
