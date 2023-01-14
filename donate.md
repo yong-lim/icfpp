@@ -21,9 +21,8 @@ Bank Name: Phillip Bank Plc
 Bank Account Number: 020001755
 Transfer currency: USD
 Account name: International Christian Fellowship of Phnom Penh
-```
+```text
 Send $1-$500, transfer fee is $0.50.
-
 Send $501 and above, transfer fee is $1.00.
 ```
 
