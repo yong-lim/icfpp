@@ -15,7 +15,7 @@ Adverts or items included do not necessarily have the endorsement of the ICF.
 The ICF also reserves the right to refuse any notice it deems inappropriate.
 
 To submit an advert for the InfoFlow, send your postings in **plain text format,
-in the body of an email** to [InfoFlow](mailto:infoflow@icfpp.org). Nuo graphics, no pictures, no
+in the body of an email** to [InfoFlow](mailto:infoflow@icfpp.org). No graphics, no pictures, no
 fancy fonts, please! For security reasons attachments will not be opened. Please
 keep your items brief. Items over 100 words may be refused or returned with
 request to shorten. **Please note – the intent of the ICF InfoFlow is to provide a
