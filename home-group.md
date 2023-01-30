@@ -7,7 +7,9 @@ page-banner: /assets/images/lunch-1.jpg
 ## Home Groups
 
 Home groups are a great way of building supportive friendships and learning and growing together.
-Please come and join in!
+Please come and join in! Or better yet, if you have a desire to host a group, please let us know
+so that we can announce it on Sunday services.
+[admin@icfpp.org](mailto:admin@icfpp.org)
 
 ---
 
