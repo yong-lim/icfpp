@@ -5,7 +5,6 @@
   overflow: hidden;
   font-family: "Quicksand", sans-serif;
 /*  background: #009578;*/
-  background: rgba(235, 235, 235, 235);
 }
 
 .accordion__label,
@@ -47,9 +46,8 @@
 }
 
 .accordion__content {
-  background: #ffffff;
   line-height: 1.6;
-  font-size: 14px;
+  font-size: 15px;
   display: none;
 }
 
@@ -63,4 +61,16 @@
 
 .accordion__input:checked ~ .accordion__label::after {
   transform: translateY(-50%) rotate(0.5turn);
+}
+
+html[data-theme="dark"] {
+  .accordion {
+    box-shadow: 0 0 10px rgba(127, 127, 127, 0.2);
+  }
+  .accordion__label:hover {
+  background: rgba(55, 55, 55);
+  }
+  .accordion__content {
+    background: rgba(34, 34, 34);
+  }
 }
