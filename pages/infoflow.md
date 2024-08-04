@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ICF InfoFlow"
+title: "InfoFlow"
 permalink: /infoflow
 ---
 ![ICF group photo](assets/images/icf-banner.jpg)
