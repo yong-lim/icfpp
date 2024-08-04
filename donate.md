@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: icf
 title: Donate
 permalink: /donate
 ---
-![ICF group photo](/assets/images/icf-banner.jpg)
 ## Tithes and Offerings
 Your contribution to the ministries of ICF makes a huge difference, and we thank
 you for your continued support!
@@ -37,6 +36,6 @@ Beneficiary Bank: Phillip Bank PLC<br>
 Address: Ground Floor of B-Office Center #61-64, Norodom Blvd, Phnom Penh, Cambodia
 
 ## How to donate if you live outside Cambodia
-Please send an email to [admin@icf.org](mailto:admin@icfpp.org) for more information.
+Please send an email to [admin@icfpp.org](mailto:admin@icfpp.org) for more information.
 
 ---
