@@ -158,7 +158,7 @@ header_pages:
    - about.md
    - home-group.md
    - donate.md
-   - page/infoflow.md
+   - pages/infoflow.md
      
 permalink: pretty
 
