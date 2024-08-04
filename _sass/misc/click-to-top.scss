@@ -4,8 +4,8 @@
   align-items: center;
   justify-content: center;
   position: fixed;
-  width: 64px;
-  height: 64px;
+  width: 52px;
+  height: 52px;
   border-radius: 32px;
   right: 60px;
   bottom: 48px;
@@ -34,6 +34,11 @@
   }
 }
 
+.click-to-top:hover {
+  color: white;
+  background: #a08484;
+}
+
 .click-to-top.show {
   opacity: 1;
   transform: translateY(0);
@@ -42,5 +47,9 @@
 html[data-theme="dark"] {
   .click-to-top {
     background: #34323D;
+  }
+  .click-to-top:hover {
+    color: white;
+    background: #a08484;
   }
 }
