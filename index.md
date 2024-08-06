@@ -5,10 +5,6 @@
 layout: icf
 sidebar: category-list
 ---
-## Important Announcement
-**Our ICF North service will be on summer break from Sunday 16th June to Sunday 7th July.** Service will resume on Sunday 14th July.
-**Please continue to join us at ICF South - services will be on as normal (10.30am on Sunday) through June and July.**
-
 ## International Christian Fellowship of Phnom Penh
 ICF is an international, inter-denominational, independent Christian church.
 The people who make up our church come from multiple nationalities and many denominations. 
