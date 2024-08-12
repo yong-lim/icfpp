@@ -561,11 +561,10 @@ html {
   .archives-time {
     @include relative-font-size(1.5);
 
+    margin-bottom: 8px;
+
     &:not(:first-child) {
       margin-top: 18px;
-    }
-    & {
-      margin-bottom: 8px;
     }
   }
 
