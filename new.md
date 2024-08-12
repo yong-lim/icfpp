@@ -15,10 +15,9 @@ We have 2 services that meet in different parts of Phnom Penh.<br>
 #532 St Try Heng 3, Sen Sok. This is a family-friendly service. North Google Map:
 [{{ site.north-gmap }}]({{ site.north-gmap }}).
 
-**ICF South meet Sunday, 10.30am at Red Ginseng Cafe,** 
-#31 St 430 corner St 500, Phsar Deum Thkov near the Mermaid Roundabout. 
-South Google Map: ឃេ-ប្រេន កាហ្វេ [{{ site.south-gmap }}]({{ site.south-gmap }})<br>
-On Grab pin "Red Ginseng Cafe".
+**ICF South meet Sunday, 10.30am,**<br> 
+at #3 St 422, Tonle Bassac<br>
+<a href="S-gmap">South Google Map</a>
 
 Please follow us on Facebook for more information: 
 [www.facebook.com/icfpp/](https://www.facebook.com/icfpp/){:target="_blank"}.
