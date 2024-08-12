@@ -564,7 +564,9 @@ html {
     &:not(:first-child) {
       margin-top: 18px;
     }
-    margin-bottom: 8px;
+    & {
+      margin-bottom: 8px;
+    }
   }
 
   .post-meta {
@@ -757,7 +759,9 @@ html {
       margin-left: 5px;
     }
 
-    color: #303030;
+    & {
+      color: #303030;
+    }
 
     &:hover {
       color: #000;
