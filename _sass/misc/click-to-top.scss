@@ -8,7 +8,7 @@
   height: 52px;
   border-radius: 32px;
   right: 60px;
-  bottom: 48px;
+  bottom: 46px;
   background: white;
   cursor: pointer;
   opacity: 0;
@@ -37,11 +37,13 @@
 .click-to-top:hover {
   color: white;
   background: #a08484;
+  transform: translate3d(0, -2px, 0);
+  -webkit-transform: translate3d(0, -2px, 0);
 }
 
 .click-to-top.show {
   opacity: 1;
-  transform: translateY(0);
+  /* transform: translateY(0); */
 }
 
 html[data-theme="dark"] {
