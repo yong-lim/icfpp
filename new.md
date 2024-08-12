@@ -17,7 +17,7 @@ We have 2 services that meet in different parts of Phnom Penh.<br>
 
 **ICF South meet Sunday, 10.30am,**<br> 
 at #3 St 422, Tonle Bassac<br>
-<a href="S-gmap">South Google Map</a>
+<a href="{{ site.south-gmap }}">South Google Map</a>
 
 Please follow us on Facebook for more information: 
 [www.facebook.com/icfpp/](https://www.facebook.com/icfpp/){:target="_blank"}.
