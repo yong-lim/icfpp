@@ -1,0 +1,49 @@
+<!-- Start Hero -->
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/hero.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" 
+  integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" 
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> -->
+<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/all.min.js"></script> -->
+<!-- <script src="{{ site.url }}{{ site.baseurl }}/js/google-sheet.js"></script> -->
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/postICF.js"></script>
+
+<div class="container-fluid">
+  <!-- <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form"     -->
+  <div class="col-md-9 col-md-offset-1 form">
+    <form id="formID" onsubmit="postICF(event)">
+      <div class="form-group">
+        <h3>Tell us about yourself</h3>
+        <div id="success"></div>
+      </div>    
+
+      <div class="form-group input-field">
+        <input type="text" name="entry.1258121403" id="fullname" placeholder="Your name"  required />
+      </div>
+      <div class="form-group input-field">
+        <input type="email" name="emailAddress" placeholder="Email address" required />
+      </div>
+      <div class="form-group input-field">
+        <textarea name="entry.1190828109" placeholder="Tell us about you... how long are you going to be here... what are you looking for?" required />
+      </div>
+
+      <div id="sendButton" class="col-md-3 col-md-offset-4 form">
+        <div class="form-group form-field">
+          <input type="submit" class="btn btn-default" value="Send">
+        </div>
+      </div>
+
+      <div id="alert-field" class="alert hidden">
+        <p>Uh oh! Something went wrong!</p>
+      </div>    
+
+    </form>
+  </div>
+</div>
+<!-- End Hero -->
+
+
+
+
+
