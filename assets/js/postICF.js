@@ -13,27 +13,35 @@ function formReset() {
   }, 3000);
 }
 
+function hasError() {
+  $('#alert-field').show()
+    .html("<span><p><b>Oh no! Something went wrong. Please let us know of your problem.</b></p></span>");
+  alert('Oh no! something went wrong. Please let us know of your problem.');
+}
+
 function pleaseWaite() {
-  console.log('hide sendButton'); 
+  // console.log('hide sendButton'); 
   $('#sendButton').hide();
   $('#alert-field').removeClass();
-  console.log('show alert-field'); 
+  // console.log('show alert-field'); 
   $('#alert-field').show()
     .html("<div><p>Please wait while we're sending your message . . .</p>  <progress></progress></div>");
 }
 
 //selector from your HTML form
 function postICF(e) {
+  // console.log("in postEatery");
   //prevent the form from submiting so we can post to the google form
   e.preventDefault();
-  // console.log("inpostEatery");
   pleaseWaite();
 
+  // form is in yong@icfpp.org
+  const formID  = '1FAIpQLScZ47fKGFJPtLN6bcraqZiZBq8WOcZ6mEpyRD5STR_-D1QqNg';
+  const formURL = `https://docs.google.com/forms/d/e/${formID}/formResponse`;     
   //AJAX request
   $.ajax({
     //The public Google Form url, but replace /view with /formResponse
-    // url: 'https://docs.google.com/forms/d/e/1FAIpQLSf6Paftyz8sBWHuG9TfaWcspP8LN0Mw-0ubF6KyGu3b9NpGGQ/formResponse',     
-    url: 'https://docs.google.com/forms/d/e/1FAIpQLScZ47fKGFJPtLN6bcraqZiZBq8WOcZ6mEpyRD5STR_-D1QqNg/formResponse',
+    url: formURL,
     data: $('#formID').serialize(), //Nifty jquery function that gets all the input data 
     type: 'POST', //tells ajax to post the data to the url
     dataType: "json", //the standard data type for most ajax requests
@@ -50,9 +58,7 @@ function postICF(e) {
        },
        403: function(data) {//403 is when something went wrong and the submission didn't go through
         //error
-        $('#alert-field').show()
-          .html("<span><p><b>Oh no! something went wrong. Please let us know of your problem.</b></p></span>");
-        alert('Oh no! something went wrong. Please let us know of your problem.');
+        hasError();
       }
     }  
   });
