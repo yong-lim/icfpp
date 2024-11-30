@@ -9,7 +9,7 @@ function formReset() {
   setTimeout(() => {
     $('#sendButton').show();
     $('#alert-field').hide();
-    console.log('This alert appeared after 3 second!'); 
+    console.log('setTimeout for 3 seconds!'); 
   }, 3000);
 }
 
