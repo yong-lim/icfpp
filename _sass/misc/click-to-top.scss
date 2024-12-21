@@ -16,6 +16,7 @@
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
   font-size: 24px;
   user-select: none;
+  color: #24678d;
 
   @include media-query(1024px) {
     width: 48px;
@@ -48,6 +49,7 @@
 
 html[data-theme="dark"] {
   .click-to-top {
+    color: #24678d;
     background: #34323D;
   }
   .click-to-top:hover {
