@@ -1,0 +1,12 @@
+# no version needed since 2020
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    container_name: icfpp-2
+    working_dir: /srv
+    volumes:
+      - .:/srv
+    ports:
+      - '5750:5750'
+      - '35750:35750'
+    command: bundle exec jekyll s --trace --force_polling -H 0.0.0.0 -P 5750 -l --livereload-port 35750
