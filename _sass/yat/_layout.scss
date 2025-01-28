@@ -697,10 +697,13 @@ html {
  * Layout and sidebar
  */
 .framework {
-    @extend %flex;
+  @extend %flex;
 
   .main {
     @extend %flex-1;
+  }
+  @include media-query($on-palm) {
+    flex-direction: column;
   }
 
   .sidebar {
@@ -710,11 +713,12 @@ html {
     max-width: 25%;
     margin-right: 15px;
     
-    @include flex-sticky($header-height + 20px);
-
     @include media-query($on-laptop) {
       /* yong display: none; */
       max-width: 40%;
+    }
+    @include media-query($on-palm) {
+      max-width: 100%;
     }
 
   }
