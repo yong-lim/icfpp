@@ -3,7 +3,7 @@ layout: default
 title: "InfoFlow"
 permalink: /infoflow
 ---
-![ICF group photo](assets/images/icf-banner-new.png)
+![ICF group photo]({{ site.icf-banner }})
 ## ICF InfoFlow page
 
 The ICF InfoFlow is a community noticeboard, sent out mid-week once weekly to
@@ -22,5 +22,5 @@ request to shorten. **Please note – the intent of the ICF InfoFlow is to provi
 place for one time announcements or requests.** We are not able to provide free
 weekly advertising. We are happy to announce new openings, or promotional adverts,
 but we cannot include continuous advertising. Thank you for understanding.
-<br> <br>
+
 {% include hero-J.html %}
