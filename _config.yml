@@ -51,7 +51,7 @@ url: "https://icfpp.org" # the base hostname & protocol for your site, e.g. http
 favicon: "/assets/images/icf.ico" # the favicon for your site
 
 north-gmap: https://goo.gl/maps/fJuXRrKpmG96mqyA7
-south-gmap: https://goo.gl/maps/5An4LRs3QH3tD1po6
+south-gmap: https://maps.app.goo.gl/jYUjsZ2y74ojzyDx7
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
