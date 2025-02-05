@@ -3,7 +3,7 @@ layout: default
 title: "InfoFlow"
 permalink: /infoflow
 ---
-![ICF group photo](assets/images/icf-banner.jpg)
+![ICF group photo](assets/images/icf-banner-new.png)
 ## ICF InfoFlow page
 
 The ICF InfoFlow is a community noticeboard, sent out mid-week once weekly to
