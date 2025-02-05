@@ -5,19 +5,21 @@ permalink: /new
 ---
 ## I'm New Here
 
-Welcome! We hope you will consider making ICF your home church during your time in Cambodia. 
-We desire to connect with our newcomers and visitors and foster a sense of belonging to those 
-who may be far from home. If you would like to know more about our church vision and ministries 
-please email [ICF Admin](mailto:admin@icfpp.org).
+Welcome! We hope you will consider making ICF your home church during your time in Cambodia. We desire to connect with our newcomers and visitors and foster a sense of belonging to those who may be far from home. If you would like to know more about our church vision and ministries please email [ICF Admin](mailto:admin@icfpp.org).
 
-We have 2 services that meet in different parts of Phnom Penh.<br>
-**ICF North meet Sunday, 9.30am at HOPE International School,**
-#532 St Try Heng 3, Sen Sok. This is a family-friendly service. North Google Map:
-[{{ site.north-gmap }}]({{ site.north-gmap }}).
+We have 2 services that meet in different parts of Phnom Penh.
 
-**ICF South meet Sunday, 10.30am,**<br> 
-at #3 St 422, Tonle Bassac<br>
-<a href="{{ site.south-gmap }}">South Google Map</a>
+ICF South meet on Sunday at 9.30am in the 17th floor auditorium of the American Intercon School: Mao Tse Tong Campus, Lim Kim Noy Tower, 11A St 402 (next to 7-Eleven).
+
+Grab pin: Lim Kim Noy<br>
+<a href="S-gmap">South Google Map</a>
+
+ICF North meet Sunday, 10.30am at HOPE International School, #532 St Try Heng 3, Sen Sok.
+
+Grab pin: Hope International School, Sen Sok<br>
+<a href="N-gmap">North Google Map</a>
+
+Sunday School runs midway through the service. 
 
 Please follow us on Facebook for more information: 
 [www.facebook.com/icfpp/](https://www.facebook.com/icfpp/){:target="_blank"}.
