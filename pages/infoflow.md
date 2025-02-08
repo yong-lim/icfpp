@@ -4,6 +4,8 @@ title: "InfoFlow"
 permalink: /infoflow
 ---
 ![ICF group photo]({{ site.icf-banner }})
+{: .banner-img}
+
 ## ICF InfoFlow page
 
 The ICF InfoFlow is a community noticeboard, sent out mid-week once weekly to
