@@ -31,15 +31,27 @@
         <input type="number" min="4" max="4" name="quantity" id="quantity" placeholder="Security: what is 2 plus 2?" required />
       </div>
 
-      <div id="sendButton" class="col-md-3 col-md-offset-4 form">
-        <div class="form-group form-field">
-          <input type="submit" class="btn btn-default" value="Send">
-        </div>
-      </div>
-
       <div id="alert-field" class="alert hidden">
         <p>Uh oh! Something went wrong!</p>
       </div>    
+
+      <!-- data-sitekey="0x4AAAAAACBSiZE2rUJH20hh" -->
+      <!-- data-sitekey="1x00000000000000000000AA" -->
+      <!-- data-sitekey="2x00000000000000000000AB" -->
+      <div
+        class="cf-turnstile"
+        data-sitekey="0x4AAAAAACBSiZE2rUJH20hh"
+        data-theme="light"
+        data-size="flexible"
+        data-callback="onTurnstileSuccess"
+        data-error-callback="onTurnstileError"
+        data-expired-callback="onTurnstileExpired" >
+      </div>
+      <div id="sendButton" class="col-md-3 col-md-offset-4 form hidden">
+        <div class="form-group form-field">
+          <input type="submit" class="btn btn-default" value="Send ➤">
+        </div>
+      </div>
 
     </form>
   </div>
