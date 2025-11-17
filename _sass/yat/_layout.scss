@@ -215,7 +215,7 @@ html {
     color: $a-color;
 
     &:hover {
-      color: lighten($a-color, 10%);
+      color: color.adjust($a-color, $lightness: 10%);
     }
   }
 }

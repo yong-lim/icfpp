@@ -1,6 +1,8 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@use "sass:map";
+@use 'sass:string';
 
 // Default theme colors
 $theme-colors: (
@@ -18,18 +20,18 @@ $brand-colors: (
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
-$theme-color: map-get($theme-colors, "snowwhite");
-$brand-color: map-get($brand-colors, "orangered");
+$theme-color: map.get($theme-colors, "snowwhite");
+$brand-color: map.get($brand-colors, "orangered");
 
-@if map-has-key($theme-colors, $theme-name) {
-  $theme-color: map-get($theme-colors, $theme-name);
-} @else if str-index($theme-name, "#") == 1 {
+@if map.has-key($theme-colors, $theme-name) {
+  $theme-color: map.get($theme-colors, $theme-name);
+} @else if string.index($theme-name, "#") == 1 {
   $theme-color: {{ site.theme_color | default: '#ffffff' }};
 }
 
-@if map-has-key($brand-colors, $brand-name) {
-  $brand-color: map-get($brand-colors, $brand-name);
-} @else if str-index($brand-name, "#") == 1 {
+@if map.has-key($brand-colors, $brand-name) {
+  $brand-color: map.get($brand-colors, $brand-name);
+} @else if string.index($brand-name, "#") == 1 {
   $brand-color: {{ site.brand_color | default: '#ff5100' }};
 }
 
@@ -37,8 +39,20 @@ $content-width: {{ site.content_width | default: '920px' }};
 
 @import "yat";
 
- .wsite-button, .wsite-button .wsite-button-inner, .wsite-editor .wsite-button, .wsite-editor .wsite-button .wsite-button-inner { color: white; background-image: none !important; background-color: #a08484; }
- .wsite-button, .wsite-editor .wsite-button { padding: 8px 20px !important; }
+.wsite-button,
+.wsite-button .wsite-button-inner,
+.wsite-editor .wsite-button,
+.wsite-editor .wsite-button .wsite-button-inner {
+  color: white;
+  background-image: none !important;
+  background-color: #a08484;
+
+}
+
+.wsite-button,
+.wsite-editor .wsite-button {
+  padding: 8px 20px !important;
+}
  .wsite-button-large, .wsite-editor .wsite-button-large { padding: 10px 25px !important; }
  .wsite-button .wsite-button-inner, .wsite-editor .wsite-button .wsite-button-inner { background-color: inherit; height: auto !important; line-height: 1.25 !important; padding: 0 !important; }
  .wsite-button-highlight, .wsite-editor .wsite-button-highlight { background-color: #a08484; }
