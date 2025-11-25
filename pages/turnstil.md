@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 'turnstile'
+title: 'turnstile test'
 permalink: /turnstile
 ---
+
 <form action="/contact" method="POST" id="contact-form">
   <input type="email" name="email" placeholder="Email" required />
   <textarea name="message" placeholder="Message" required></textarea>
@@ -35,3 +36,4 @@ permalink: /turnstile
     document.getElementById("submit-btn").disabled = true;
   }
 </script>
+
