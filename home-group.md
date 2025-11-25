@@ -31,8 +31,16 @@ Want to try hosting, leading or attending a Home Group? Our Home Group Kickstart
 
 If you are interested in being part of a Home Group and/or leading or hosting one please contact us for more information.
 
+<div style="padding: 15px 0 30px;"> 
+  <hr>
+</div>
+
 {%- include contact.html -%}
 
+<div style="padding: 35px 0 20px;"> 
+  <hr>
+</div>
+### Some Home Group Photos
 <!-- Gallery -->
 {%- for img in page.images -%}
 <a
