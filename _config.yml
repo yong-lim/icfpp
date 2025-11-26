@@ -156,10 +156,10 @@ api_token: AKfycbw99ZCFhr9pzbMDUdhGiyNTAy1l2aKFItSaeK5ysoHxuh341PhmBqdVi3URC3xWl
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-   - new.md
-   - about.md
-   - home-group.md
-   - donate.md
+   - pages/new.md
+   - pages/about-us.md
+   - pages/home-group.md
+   - pages/donate.md
    - pages/infoflow.md
      
 permalink: pretty
