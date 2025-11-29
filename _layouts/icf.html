@@ -3,7 +3,7 @@ layout: default
 sidebar: category-list
 ---
 {%- if page.page-banner -%}
-  <img src="{{ page.page-banner }}" alt="ICF banner">
+  <img class="banner-img" src="{{ page.page-banner }}" alt="ICF banner">
 {%- else -%}
   <img class="banner-img" src="{{ site.icf-banner }}" alt="ICF banner">
 {%- endif -%}
@@ -16,4 +16,3 @@ sidebar: category-list
      {{ content }}
   </section>
 </div>
-
