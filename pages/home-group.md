@@ -42,7 +42,7 @@ If you are interested in being part of a Home Group and/or leading or hosting on
   <hr>
 </div>
 
-### Some Home Group Photos
+### Some Home Group Photos . . .
 
 <!-- Gallery -->
 {%- include glight.html 
