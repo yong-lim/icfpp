@@ -15,11 +15,11 @@ audio,canvas,progress,video{
     display:inline-block;
     vertical-align:baseline
 }
-.container-fluid:before, 
+.container-fluid:before,
 .container-fluid:after {
     content:" ";
-    display:table
-    border-radius:4px
+    display:table;
+    border-radius: 4px;
 }
 .container-fluid:after{
     clear:both
@@ -455,6 +455,3 @@ fieldset[disabled] .btn-default.active{
     background-image:-webkit-linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent);
     background-image:linear-gradient(45deg, rgba(255,255,255,0.15) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.15) 75%, transparent 75%, transparent)
 }
-
-
-
