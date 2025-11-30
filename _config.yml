@@ -152,10 +152,11 @@ yat:
 # this and add the path to the pages in order as they should show up
 header_pages:
    - pages/new.md
-   - pages/about-us.md
+   # - pages/prayer.md
    - pages/home-group.md
    - pages/donate.md
    - pages/infoflow.md
+   - pages/about-us.md
 
 permalink: pretty
 
@@ -242,4 +243,4 @@ exclude:
   - docker-compose.yml
 
 # Default Markdown Engine
-markdown: kramdown
+# markdown: kramdown
