@@ -36,7 +36,7 @@ If you are interested in being part of a Home Group and/or leading or hosting on
   <hr>
 </div>
 
-{%- include contact.html -%}
+{%- include req-home-group.html -%}
 
 <div style="padding: 35px 0 20px;"> 
   <hr>

@@ -25,4 +25,4 @@ place for one time announcements or requests.** We are not able to provide free
 weekly advertising. We are happy to announce new openings, or promotional adverts,
 but we cannot include continuous advertising. Thank you for understanding.
 
-{% include hero-J.html %}
+{% include req-infoflow.html %}
