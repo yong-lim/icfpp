@@ -1,12 +1,24 @@
 ---
 layout: icf
-title: "Prayer Request"
-permalink: /prayer-beta
+title: "Prayer"
+permalink: /prayer
 page-banner: /assets/images/banners/prayer.jpeg
 ---
 
 ## ICF Prayer Page
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+At ICF, we believe that God's church is called to be a house of prayer for all nations (Isa. 56:7). 
+
+How can we pray for you? (ex., guidance, healing, finances, relationships) 
+
+Confidential (Anonymous) Requests:
+If you have a confidential prayer request, please share the details of your need. Our prayer team will intercede on your behalf while maintaining your personal privacy. 
+
+Non-confidential Requests:
+For non-confidential prayer requests, a member of our intercessory prayer team will pray publicly for your specific need during the Sunday morning service.
+
+If submitting a request on behalf of another person, please obtain their permission.
+
+We are honored to support you in prayer. The effectual fervent prayer of the righteous accomplishes much (Jam. 5:16).
 
 {% include req-prayer.html %}
