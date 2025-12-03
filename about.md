@@ -36,7 +36,7 @@ ICF Pastor 1st Application Form
 
 ---
 ## Administrator
-![Christina Leong](assets/images/Christina-Leong.jpg)
+![Christina Leong](assets/img/Christina-Leong.jpg)
 
 Christina Leong
 Christina comes from Malaysia and has served in the role of Administrator since 2011.
@@ -68,7 +68,7 @@ Please consider who you think might have a passion for serving the ICF as an Eld
 - Milet Goddard
 
 ---
-## Our Logo ![ICF Logo](assets/images/icf-logo.jpg)
+## Our Logo ![ICF Logo](assets/img/icf-logo.jpg)
 
 The ICF logo portrays the wind of the Holy Spirit flowing from the cross of Jesus
 across the meeting of the four rivers where Phnom Penh is located.

@@ -48,9 +48,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 
  #baseurl: "/icf" # the subpath of your site, e.g. /blog
 url: "https://icfpp.org" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "/assets/images/icf.ico" # the favicon for your site
+favicon: "/assets/img/icf.ico" # the favicon for your site
 
-icf-banner: "/assets/images/icf-banner-new.png"
+icf-banner: "/assets/img/icf-banner-new.png"
 
 north-gmap: https://goo.gl/maps/fJuXRrKpmG96mqyA7
 south-gmap: https://maps.app.goo.gl/jYUjsZ2y74ojzyDx7

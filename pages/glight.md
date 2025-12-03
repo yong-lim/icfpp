@@ -2,7 +2,7 @@
 layout: default
 title: 'glight test'
 permalink: /glight
-imgfolder: assets/images/2025-home-group
+imgfolder: assets/img/2025-home-group
 images:
   - name: hg-wed-1.jpeg
     thumb: hg-wed-1-thumb.jpeg

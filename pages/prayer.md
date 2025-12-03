@@ -2,7 +2,7 @@
 layout: icf
 title: "Prayer"
 permalink: /prayer
-page-banner: /assets/images/banners/prayer.jpeg
+page-banner: /assets/img/banners/prayer.jpeg
 ---
 
 ## ICF Prayer Page

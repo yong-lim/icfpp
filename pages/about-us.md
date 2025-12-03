@@ -2,9 +2,9 @@
 layout: icf
 title: "About Us"
 permalink: /about-us
-page-banner: /assets/images/2025-retreat/ICF-Restreat-2025-family.jpeg
+page-banner: /assets/img/2025-retreat/ICF-Restreat-2025-family.jpeg
 
-imgfolder: assets/images/2025-retreat/
+imgfolder: assets/img/2025-retreat/
 images:
   - name: 25-retreat-01.jpg
     thumb: 25-retreat-01-thumb.jpg

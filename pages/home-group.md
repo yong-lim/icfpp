@@ -2,9 +2,9 @@
 layout: icf
 title: "Home Group"
 permalink: /home-group
-page-banner: /assets/images/lunch-1.jpg
+page-banner: /assets/img/lunch-1.jpg
 
-imgfolder: assets/images/2025-home-group/
+imgfolder: assets/img/2025-home-group/
 images:
   - name: hg-thu-1.jpg
     thumb: hg-thu-1-thumb.jpg

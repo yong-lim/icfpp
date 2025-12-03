@@ -13,7 +13,7 @@ Your giving helps to:
 
 ## How to donate if you live in Cambodia
 ## Scan this QR Code
-![QR Code](/assets/images/donate-qr-code.jpg)
+![QR Code](/assets/img/donate-qr-code.jpg)
 
 **Donate via ABA Bank mobile app if you hold an account with ABA.**
 
