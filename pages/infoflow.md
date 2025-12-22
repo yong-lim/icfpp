@@ -6,7 +6,7 @@ permalink: /infoflow
 ![ICF group photo]({{ site.icf-banner }})
 {: .banner-img}
 
-## ICF InfoFlow page
+## ICF InfoFlow
 
 The ICF InfoFlow is a community noticeboard, sent out mid-week once weekly to
 serve the expat and local community. If you would like information on upcoming
