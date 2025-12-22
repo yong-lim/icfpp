@@ -21,4 +21,4 @@ If submitting a request on behalf of another person, please obtain their permiss
 
 We are honored to support you in prayer. The effectual fervent prayer of the righteous accomplishes much (Jam. 5:16).
 
-{% include req-prayer.html %}
+{% include send-prayer.html %}
