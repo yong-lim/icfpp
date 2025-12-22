@@ -36,7 +36,7 @@ function pleaseWaite() {
 }
 
 //selector from your HTML form
-function postPrayer(e) {
+function sendPrayer(e) {
   // console.log("in postEatery");
   //prevent the form from submiting so we can post to the google form
   e.preventDefault();
