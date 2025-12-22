@@ -9,7 +9,7 @@ function formReset() {
   setTimeout(() => {
     $('#sendButton').show();
     $('#alert-field').hide();
-    console.log('setTimeout for 3 seconds!'); 
+    console.log('setTimeout for 3 seconds!');
   }, 3000);
 }
 
@@ -20,16 +20,16 @@ function hasError() {
 }
 
 function pleaseWaite() {
-  // console.log('hide sendButton'); 
+  // console.log('hide sendButton');
   $('#sendButton').hide();
   $('#alert-field').removeClass();
-  // console.log('show alert-field'); 
+  // console.log('show alert-field');
   $('#alert-field').show()
     .html("<div><p>Please wait while we're sending your message . . .</p>  <progress></progress></div>");
 }
 
 //selector from your HTML form
-function postICF(e) {
+function sendHomeGroup(e) {
   // console.log("in postEatery");
   //prevent the form from submiting so we can post to the google form
   e.preventDefault();
@@ -37,12 +37,12 @@ function postICF(e) {
 
   // form is in yong@icfpp.org
   const formID  = '1FAIpQLScZ47fKGFJPtLN6bcraqZiZBq8WOcZ6mEpyRD5STR_-D1QqNg';
-  const formURL = `https://docs.google.com/forms/d/e/${formID}/formResponse`;     
+  const formURL = `https://docs.google.com/forms/d/e/${formID}/formResponse`;
   //AJAX request
   $.ajax({
     //The public Google Form url, but replace /view with /formResponse
     url: formURL,
-    data: $('#formID').serialize(), //Nifty jquery function that gets all the input data 
+    data: $('#formID').serialize(), //Nifty jquery function that gets all the input data
     type: 'POST', //tells ajax to post the data to the url
     dataType: "json", //the standard data type for most ajax requests
     mode: 'cors',
@@ -50,7 +50,7 @@ function postICF(e) {
       0: function(data) { //0 is when Google gives a CORS error, don't worry it went through
         //success
         formReset();
-       }, 
+       },
        200: function(data) {//200 is a success code. it went through!
         //success
         // $('#form-success').text('hooray! 200');
@@ -60,6 +60,6 @@ function postICF(e) {
         //error
         hasError();
       }
-    }  
+    }
   });
 }
