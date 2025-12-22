@@ -29,8 +29,8 @@ function pleaseWaite() {
 }
 
 //selector from your HTML form
-function postInfoFlow(e) {
-  console.log("in postInfoFlow");
+function sendInfoFlow(e) {
+  console.log("in sendInfoFlow");
   //prevent the form from submiting so we can post to the google form
   e.preventDefault();
   pleaseWaite();
