@@ -1,13 +1,13 @@
-<!-- Start Hero req-prayer -->
+<!-- Start Hero send-prayer -->
 <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/hero.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
   integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
   crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/req-prayer.js"></script>
+<script src="{{ "/assets/js/send-prayer.js" | relative_url }}"></script>
 
 <div class="container-fluid">
   <div class="col-md-9 col-md-offset-1 form">
-    <form id="formID" onsubmit="postPrayer(event)">
+    <form id="formID" onsubmit="sendPrayer(event)">
       <div class="form-group">
         <h3>Tell us about what we can pray for</h3>
         <div id="success"></div>
@@ -42,7 +42,7 @@
       <!-- data-sitekey="2x00000000000000000000AB" -->
       <div
         class="cf-turnstile"
-        data-sitekey="0x4AAAAAACBSiZE2rUJH20hh"
+        data-sitekey="1x00000000000000000000AA"
         data-theme="light"
         data-size="flexible"
         data-callback="onTurnstileSuccess"
