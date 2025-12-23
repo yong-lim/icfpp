@@ -5,7 +5,7 @@ permalink: /prayer
 page-banner: /assets/img/banners/prayer.jpeg
 ---
 
-## ICF Prayer Page
+## ICF Prayer
 
 At ICF, we believe that God's church is called to be a house of prayer for all nations (Isa. 56:7). 
 
