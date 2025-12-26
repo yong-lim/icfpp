@@ -7,7 +7,7 @@ function formReset() {
     .html("<span><p>Thank you. We send out InfoFlow every Wednesday. Please let us know if you don't get one in a week or two.</p></span><br>");
   setTimeout(() => {
     $('#sendButton').show();
-    $('#alert-field').hide();
+    $('#alert-field').hide().addClass('hidden');
     document.getElementById("formID").reset();
     console.log('setTimeout for 5 seconds!');
   }, 5000);

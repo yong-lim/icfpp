@@ -5,10 +5,10 @@ function formFocus() {
 function formReset() {
   $('#alert-field').show()
     .html("<span><p>Thank you for dropping us a line . . .</p></span><br>");
-  document.getElementById("formID").reset();
   setTimeout(() => {
     $('#sendButton').show();
-    $('#alert-field').hide();
+    $('#alert-field').hide().addClass('hidden');
+    document.getElementById("formID").reset();
     console.log('setTimeout for 3 seconds!');
   }, 3000);
 }
