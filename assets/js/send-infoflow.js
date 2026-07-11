@@ -8,10 +8,9 @@ function formReset() {
   setTimeout(() => {
     $('#sendButton').show();
     $('#alert-field').hide().addClass('hidden');
-    $("#formID").reset();
-    // document.getElementById("formID").reset();
+    document.getElementById("formID").reset();
     console.log('setTimeout for 5 seconds!');
-  }, 5000);
+  }, 4000);
 }
 
 function hasError() {
