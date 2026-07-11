@@ -14,6 +14,10 @@ ICF South meet on Sunday at 9.30am in the 17th floor auditorium of the American 
 Grab pin: Lim Kim Noy<br>
 <a href="S-gmap">South Google Map</a>
 
+This video shares more logistical information about our ICF South location:
+<iframe src="https://drive.google.com/file/d/1kKvEobi_4X2BPDunfDJjlDf3IDtU8I6f/preview" width="640" height="340" allow="autoplay"></iframe>
+
+<br>
 ICF North meet Sunday, 10.30am at HOPE International School, #532 St Try Heng 3, Sen Sok.
 
 Grab pin: Hope International School, Sen Sok<br>
