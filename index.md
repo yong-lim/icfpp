@@ -15,7 +15,7 @@ and plays a supportive role for the many ministries God has raised up for Cambod
 Join us each week for worship, Bible-based teaching, prayer and fellowship. 
 
 ---
-## We are seeking for an Associate Pastor with a focus on families and youth. 
+## We are seeking an Associate Pastor with a focus on families and youth. 
 
 We are an English-speaking, expatriate, evangelical, interdenominational church seeking someone who will adhere to the theological statements in our constitution. The Associate Pastor will support our Senior Pastor and Church Council in providing pastoral care, discipleship, and ministry leadership for families and youth at the ICF North and South campuses. Theological training is preferred but not required, however experience in youth and children’s work and pastoral ministry is essential, as is some evidence of gifting in international living or cross-cultural work. Interested parties may [Contact Us](mailto:associate.pastor@icfpp.org) for further information or to submit a CV and cover letter or click the link for a [Job Description](https://tinyurl.com/icfassociatepastor).
 
