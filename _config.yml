@@ -241,7 +241,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Icon
-  - docker-compose.yml
+  - podman-compose.yml
   - .jj/
 
 # Default Markdown Engine
