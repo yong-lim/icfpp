@@ -16,7 +16,6 @@ Gem::Specification.new do |spec|
     f.match(%r!^(assets|_data|_layouts|_includes|_sass|LICENSE|README)!i)
   end
 
-  spec.add_development_dependency "bundler", ">= 1.6", "< 3.0"
   spec.add_development_dependency "rake", ">= 12.0", "< 13.4"
 
   spec.add_runtime_dependency "jekyll", "> 3.5", "< 5.0"
@@ -26,4 +25,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-spaceship", "~> 0.10.2"
   spec.add_runtime_dependency "jekyll-sass-converter", "~> 3.1"
+  spec.add_runtime_dependency 'ostruct', '>= 0.6.3'
+  spec.add_development_dependency "bundler"
 end
