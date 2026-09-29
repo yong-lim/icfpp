@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: International Christian Fellowship of Phnom Penh
+title: ICF of Phnom Penh
 email: admin@icfpp.org
 author: ICF of Phnom Penh
 sidebar-title: "Sunday Service"
