@@ -1,7 +1,7 @@
 ---
 layout: icf
 title: "About Us"
-permalink: /about-us
+permalink: /about
 page-banner: /assets/img/2025-retreat/ICF-Restreat-2025-family.jpeg
 
 imgfolder: assets/img/2025-retreat/
