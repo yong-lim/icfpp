@@ -1,6 +1,11 @@
 /**
  * Animation for transparent header
  */
+
+:root, html {
+  color-scheme: light dark;
+}
+
 html {
   &[data-header-transparent] {
     header.site-header {
